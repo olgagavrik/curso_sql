@@ -1,2 +1,2 @@
 # curso_sql
-repository for SQL course practices
+Curso de SQL para Ciencia de Datos
